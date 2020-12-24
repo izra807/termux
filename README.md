@@ -1,2 +1,2 @@
-# termux
-GK tau
+Git clone https://github.com/i.a
+
